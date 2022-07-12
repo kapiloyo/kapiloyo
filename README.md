@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Kapil
 - 👀 I’m interested in Backend Development
 - 🌱 I’m currently learning Java Spring boot
-- 📫 How to reach me - kapil.khandelwal@oyorooms.com
+- 📫 How to reach me - kapil.khandelwal1@oyorooms.com
 
 <!---
 kapiloyo/kapiloyo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
